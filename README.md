@@ -18,8 +18,6 @@ Currently working in fianance with a passion for tech and web development!
 </p>
 <br />
 
-#
-
 ---
 
 ### 📚 Languages I am Learning
@@ -31,6 +29,8 @@ Currently working in fianance with a passion for tech and web development!
 <img align="left" alt="CPlusPlus" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </p>
 <br />
+
+#
 
 
 <!--
