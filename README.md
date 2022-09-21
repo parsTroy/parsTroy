@@ -12,6 +12,11 @@
 <img align="left" alt="Github" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img align="left" alt="NodeJs" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
+### ⚙️ Learning
+
+<img align="left" alt="Python" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="left" alt="Java" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="left" alt="CPlusPlus" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <!--
 **parsTroy/parsTroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
