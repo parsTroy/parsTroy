@@ -18,6 +18,8 @@ Currently working in fianance with a passion for tech and web development!
 </p>
 <br />
 
+#
+
 ---
 
 ### 📚 Languages I am Learning
