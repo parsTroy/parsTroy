@@ -32,6 +32,10 @@ Currently working in fianance with a passion for tech and web development!
 
 #
 
+### 📈 Stats
+
+![parsTroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsTroy&show_icons=true&themegruvbox)
+
 
 <!--
 **parsTroy/parsTroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
