@@ -13,6 +13,8 @@
 <img align="left" alt="NodeJs" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Linux" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
+---
+
 ### 📚 Learning
 
 <img align="left" alt="Python" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
