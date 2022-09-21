@@ -34,7 +34,7 @@ Currently working in fianance with a passion for tech and web development!
 
 ### 📈 Stats
 
-![parsTroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsTroy&show_icons=true&themegruvbox)
+![parsTroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsTroy&show_icons=true&theme=tokyonight)
 
 
 <!--
