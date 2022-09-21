@@ -9,6 +9,8 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="left" alt="React" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+<img align="left" alt="Github" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="left" alt="NodeJs" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
 <!--
 **parsTroy/parsTroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
