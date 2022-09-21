@@ -2,6 +2,8 @@
 
 **`Web Developer`**
 
+Currently working in fianance with a passion for tech and web development!
+
 ### ⚙️ Languages & Platforms
 
 <p align="left">
