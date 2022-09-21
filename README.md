@@ -2,7 +2,9 @@
 
 **`Web Developer`**
 
+### ⚙️ Languages
 
+<img align="left" alt="JavaScript" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
 <!--
 **parsTroy/parsTroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
