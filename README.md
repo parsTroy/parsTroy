@@ -20,6 +20,7 @@ Currently working in fianance with a passion for tech and web development!
 ### Tools & Platforms
 <p>
 <img align="left" alt="Linux" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ <img align="left" alt="Mac" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 <img align="left" alt="Github" width="30px" style="padding-right:1-px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
