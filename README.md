@@ -1,8 +1,6 @@
 # 😎 parsTroy
 
-**`Web Developer`**
-
-Front-End Developer
+**`Software Engineer`**
 
 ### ⚙️ Languages
 
