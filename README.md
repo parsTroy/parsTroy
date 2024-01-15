@@ -5,6 +5,10 @@
 # 💫 About Me:
 👨🏻‍💻 Software Engineer turning ideas into reality<br>📚 Learning more everyday<br>🇰🇷 My soul is in Seoul
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=parsTroy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parsTroy&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsTroy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devtroy.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/troyalparsons) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/parstroydev) 
@@ -37,10 +41,5 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parsTroy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=parsTroy&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsTroy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
