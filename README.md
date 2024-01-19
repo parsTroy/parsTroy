@@ -13,8 +13,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parsTroy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsTroy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=parsTroy&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=parsTroy&theme=calm&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsTroy&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=parsTroy&theme=calm&hide_border=false)<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devtroy.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/troyalparsons) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/parstroydev) 
