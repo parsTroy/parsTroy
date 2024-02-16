@@ -1,9 +1,9 @@
 # 😎 parsTroy
 
-**`Software Engineer`**
+**`Software Developer`**
 
 # 💫 About Me:
-👨🏻‍💻 Software Engineer turning ideas into reality<br>📚 Learning more everyday<br>🇰🇷 My soul is in Seoul
+👨🏻‍💻 Software Developer turning ideas into reality<br>📚 Learning more everyday<br>🇰🇷 My soul is in Seoul
 
 # 🛠️ Current Main Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
