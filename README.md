@@ -9,7 +9,6 @@
 ![HTMX](https://img.shields.io/badge/htmx-%23007ACC.svg?style=for-the-badge&logo=htmx&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=%2361DAFB)
 ![Turso](https://img.shields.io/badge/turso-%2338B2AC.svg?style=for-the-badge&logo=turso&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
