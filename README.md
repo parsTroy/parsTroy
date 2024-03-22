@@ -7,6 +7,7 @@
 
 # 🛠️ Current Main Tech Stack
 ![HTMX](https://img.shields.io/badge/htmx-%23007ACC.svg?style=for-the-badge&logo=htmx&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Turso](https://img.shields.io/badge/turso-%2338B2AC.svg?style=for-the-badge&logo=turso&logoColor=black) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=black)
