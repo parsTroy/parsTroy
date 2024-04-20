@@ -24,7 +24,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Springboot](https://img.shields.io/badge/springboot-%2300ed47.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%2350ab0f.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Rust](https://img.shields.io/badge/rust-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=white)
 
