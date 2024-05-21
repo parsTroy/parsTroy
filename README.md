@@ -8,9 +8,10 @@
 # 🛠️ Current Learning Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%2338B2AC.svg?style=for-the-badge&logo=supabase&logoColor=black) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%2338B2AC.svg?style=for-the-badge&logo=vercel&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-%2338B2AC.svg?style=for-the-badge&logo=Supabase&logoColor=black) 
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Next](https://img.shields.io/badge/next-%2338B2AC.svg?style=for-the-badge&logo=next&logoColor=black) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=parsTroy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsTroy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
