@@ -1,6 +1,6 @@
 # 😎 parsTroy
 
-**`Software Developer`**
+**`Software Developer + Data Analyst`**
 
 # 💫 About Me:
 👨🏻‍💻 Software Developer turning ideas into reality<br>📚 Learning more everyday<br>🇰🇷 Soul in Seoul
