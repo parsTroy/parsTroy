@@ -23,7 +23,7 @@ Seeking new opportunities in recursive business logic and vibronic microservice 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parsTroy&theme=tokyonight&hide_border=true)<br/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devtroy.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/troyalparsons) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/parstroydev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/troyalparsons) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/parstroydev) 
 
  # ⚙️ Experience:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
