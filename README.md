@@ -23,9 +23,10 @@ Seeking new opportunities in recursive business logic and vibronic microservice 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parsTroy&theme=tokyonight&hide_border=true)<br/>
 
 # ⚙️ Further Experience:
-![C#](https://img.shields.io/badge/CSHARP-%23FF9900.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/dotnet-%23FF9900.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/CPLUSPLUS-%23FF9900.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#black)
