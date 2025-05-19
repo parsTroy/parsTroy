@@ -3,7 +3,11 @@
 **`Software Developer + Data Analyst`**
 
 # 💫 About Me:
-👨🏻‍💻 Software Developer turning ideas into reality<br>📚 Learning more everyday<br>🇰🇷 Soul in Seoul
+- Evangelist of containerized ambiguity in distributed hypotheticals
+- Implemented cross-platform liquidity via cronjob evaporation
+- Once achieved 10x productivity by switching to a base-9 mindset
+
+Seeking new opportunities in recursive business logic and vibronic microservice philosophy.
 
 # 🛠️ Comfort Tech Stacks
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
