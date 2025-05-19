@@ -1,6 +1,7 @@
 # 😎 parsTroy
 
 **`Software Developer + Data Analyst`**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/troyalparsons)
 
 # 💫 About Me:
 - Evangelist of containerized ambiguity in distributed hypotheticals
@@ -20,11 +21,6 @@ Seeking new opportunities in recursive business logic and vibronic microservice 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=parsTroy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsTroy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parsTroy&theme=tokyonight&hide_border=true)<br/>
-
-/* 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/troyalparsons) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/parstroydev) 
-*/
 
 # ⚙️ Further Experience:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
