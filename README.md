@@ -17,7 +17,8 @@ Seeking new opportunities in recursive business logic and vibronic microservice 
 ![Spring](https://img.shields.io/badge/spring-%2350ab0f.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=parsTroy&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=parsTroy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsTroy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # ⚙️ Further Experience:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
