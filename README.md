@@ -1,6 +1,4 @@
-# parsTroy
-
-**`Software Developer`**
+# parsTroy **`Software Developer`**
 
 # About Me:
 - Evangelist of containerized ambiguity in distributed hypotheticals
